@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 3375348367
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3adbbd910f0cb53e62abbb58c3b38cf1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 82c39a9c12dfb22e41c62e45e5574282
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: cfabb0440166ab443bba8876756fdfa9, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1344c3c82d62a2a41a3576d8abb8e3ea, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/speedrunnermario.png
+- Assets/Speedrunner Mario.prefab
+Dependencies: []
